@@ -1,4 +1,4 @@
-/***
+	/***
  * Excerpted from "Agile Web Development with Rails",
  * published by The Pragmatic Bookshelf.
  * Copyrights apply to this code. It may not be used to create training material, 
@@ -19,6 +19,7 @@
 // about supported directives.
 //
 //= require jquery
+//= require jquery-ui/effect-blind
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
